@@ -15,8 +15,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'LEBINHAN'
-  url:            
+  name:           'Hydrasky'
+  url:            https://twitter.com/hydraskykma
 
 paginate:         5
 # paginate_path:    '/page:num'
